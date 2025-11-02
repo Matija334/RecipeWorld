@@ -79,7 +79,7 @@
 **Ekvivalenčne kategorije:**
 |Polje|Veljavni primeri|Neveljavni primeri|
 |--|---|---|
-|Komentar|dolžina 1 - 200 znakov|dolžina 0 ali več kot 200 znakov|
+|Komentar|dolžina 1 - 200 znakov|manj kot 1 ali več kot 200 znakov|
 
 **Mejne vrednosti:**
 |Polje|Dolžina|Status|
