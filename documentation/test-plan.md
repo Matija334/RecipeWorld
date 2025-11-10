@@ -1,7 +1,7 @@
 # Testni plan – Recipe World
 
 ## 1) Cilj testne faze
-Cilje testne faze je preveriti vse ključne funkcionalnosti aplikacije Recipe World. Testiranje bo obsegalo osnovne uporabniške akcije.   
+Cilje testne faze je preveriti vse ključne funkcionalnosti aplikacije Recipe World (verzija 1.0). Testiranje bo obsegalo osnovne uporabniške akcije.   
 
 ## 2) Kontekst testiranja
 
@@ -63,7 +63,8 @@ Cilje testne faze je preveriti vse ključne funkcionalnosti aplikacije Recipe Wo
 
 ## 7) Odgovornosti
 
-* **Načrt in izvedba testov, poročilo**: Matija, Tomas
+* Načrt in izvedba testov: Matija, Tomas
+* Poročilo v orodju Jira: Matija, Tomas
 
 
 
