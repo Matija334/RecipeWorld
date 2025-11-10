@@ -1,7 +1,7 @@
 # Testni plan – Recipe World
 
 ## 1) Cilj testne faze
-Cilje testne faze je preveriti vse ključne funkcionalnosti aplikacije Recipe World. Testiranje bo obsegalo osnovne uporabniške akcije in varnostne vidike.   
+Cilje testne faze je preveriti vse ključne funkcionalnosti aplikacije Recipe World. Testiranje bo obsegalo osnovne uporabniške akcije.   
 
 ## 2) Kontekst testiranja
 
@@ -26,7 +26,7 @@ Cilje testne faze je preveriti vse ključne funkcionalnosti aplikacije Recipe Wo
 **Pristop**
 
 * **Ročni funkcionalni testi**: registracija, login, create recipe, comment, rate, bookmark, follow, unfollow, remove bookmark.
-* **Robni testi**: prazna polja, predolge vrednosti, ponarejen JWT, XSS vnos.
+* **Robni testi**: prazna polja, predolge vrednosti.
 
 ---
 
